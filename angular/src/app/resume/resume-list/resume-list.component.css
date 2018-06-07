@@ -1,0 +1,41 @@
+.about_author {
+    /* display: flex; */
+    width: 100%;
+}
+
+.about_author a {
+    width: 50%;
+    display: inline-block;
+    color: #666;
+    text-decoration: none;
+    line-height: 30px;
+}
+
+.about_author div {
+    width: 50%;
+    display: inline-block;
+}
+
+.page {
+    width: 100%;
+    padding: 20px;
+}
+
+.power {
+    width: 100%;
+    vertical-align: top;
+}
+
+.power a {
+    width: 100%;
+}
+
+.page h2 {
+    color: #1E88E5;
+    font-size: 16px;
+    line-height: 35px;
+}
+
+.content {
+    line-height: 30px;
+}
