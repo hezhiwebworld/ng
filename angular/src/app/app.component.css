@@ -14,11 +14,15 @@
     line-height: 20px;
     text-align: center;
     text-decoration: none;
-    color: #1E88E5;
+    color: #666;
     font-size: 12px;
     padding-top: 8px;
 }
 
 .tap_bar a span {
     display: block;
+}
+
+.active {
+    color: #1E88E5!important;
 }
